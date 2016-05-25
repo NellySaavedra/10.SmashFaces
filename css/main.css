@@ -1,0 +1,52 @@
+body {
+	background-color: #FAFAFA;
+}
+.DivImg {
+	width: 100%;
+}
+.Img {
+	width: 100%;
+	border-radius: 5px;
+}
+.BackHeader {
+	background-color: #47597F;
+	color: #FFFFFF;
+}
+.BackPanel {
+	background-color: #E5C22E;
+	padding: 2% 1%;
+	border-radius: 10px;
+}
+.btn-submit {
+	background-color: #47597F !important;
+	color: #FFFFFF;
+}
+.btn-submit:hover {
+  color: #ffffff !important;
+  background-color: #BF8F0D !important;
+  border: 2px solid #FFFFFF;
+}
+input {
+	border-radius: 5px !important;
+	border: 2px solid #47597F;
+}
+hr {
+	border: 1px solid #D8D8D8;
+}
+#inputNombre {
+	width: 100%;
+	padding: 3px;
+}
+section {
+	margin-bottom: 2%;
+}
+.BackContador {
+	background: #E8840D;
+	padding: 2%;
+	border-radius: 10px;
+}
+#contendorFinal {
+	background-color: #ffffff;
+	padding-left: 3px;
+	border-radius: 5px;
+}
